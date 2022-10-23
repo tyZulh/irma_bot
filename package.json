@@ -1,0 +1,22 @@
+{
+  "name": "irma_bot",
+  "version": "1.0.0",
+  "description": "Discord bot that scrap horoscops from 20minutes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyZulh/irma_bot.git"
+  },
+  "author": "tyZulh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tyZulh/irma_bot/issues"
+  },
+  "homepage": "https://github.com/tyZulh/irma_bot#readme",
+  "dependencies": {
+    "puppeteer": "^19.1.0"
+  }
+}
